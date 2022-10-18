@@ -47,6 +47,12 @@ zip -r python-layer.zip python
 ![](/images/invoke-function.png)
 
 
+### Troubleshooting
+
+* [Lambda image launch error exec format](https://stackoverflow.com/questions/68247643/aws-lambda-alpine-python-container-shows-image-launch-error-exec-format-error)
+
 ### Sources
 
+* [Working with Lambda layers and extensions in container images](https://aws.amazon.com/blogs/compute/working-with-lambda-layers-and-extensions-in-container-images/)
+* [AWS Creating and sharing Lambda layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
 * [Using Lambda Layers in AWS CDK - TypeScript](https://bobbyhadz.com/blog/aws-cdk-lambda-layers)
