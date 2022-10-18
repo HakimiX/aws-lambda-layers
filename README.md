@@ -13,3 +13,4 @@ Directory structures:
 **Limitations**
 * Maximum 5 layers
 * Size limits: 50MB direct upload and 250MB total
+
