@@ -1,5 +1,9 @@
 # AWS Lambda Layers using CDK
 
+* [Lambda Layers](#lambda-layers)
+* [Manually Deploy Layer](#manually-deploy-layer)
+* [Sources](#sources)
+
 ### Lambda Layers
 Directory structures: 
 ```shell
@@ -41,3 +45,8 @@ zip -r python-layer.zip python
 4. Invoke the Lambda function
 
 ![](/images/invoke-function.png)
+
+
+### Sources
+
+* [Using Lambda Layers in AWS CDK - TypeScript](https://bobbyhadz.com/blog/aws-cdk-lambda-layers)
