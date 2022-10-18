@@ -39,6 +39,7 @@ class LambdaStack(Stack):
           description='Sample Lambda using Layers',
           handler='lambda.handler',
           runtime=lambda_.Runtime.PYTHON_3_9,
+          role=lambda_role,
           code=lambda_.Code.from_asset('lambda'),
           layers=[lambda_layer]
         )
