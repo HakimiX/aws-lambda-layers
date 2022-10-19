@@ -2,6 +2,7 @@
 
 * [Lambda Layers](#lambda-layers)
 * [Manually Deploy Layer](#manually-deploy-layer)
+* [Troubleshooting](#troubleshooting)
 * [Sources](#sources)
 
 ### Lambda Layers
